@@ -503,13 +503,15 @@ body.light hr.separator {
 
 .home .bg {
   /*background-color:#16181b ;*/
-  background-image: url("../img/laptop5.jpg");
+  background-image: url("../img/laptop4.jpg");
   width: 100%;
-  background-size: cover;
-  background-position: top;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  /*background-position: top;*/
   height: auto;
-  z-index: 111;
-  border-radius: 15px;
+  /*z-index: 111;*/
+  /*border-radius: 15px;*/
   left: 30px;
   top: 30px;
   /*box-shadow: 0 0 7px rgba(0,0,0,.9);*/
@@ -1323,10 +1325,13 @@ body.light hr.separator {
 
   .home .home-details-container {
     margin: 0 auto;
+
   }
 
   .home .home-details {
     padding: 0;
+    margin-left: auto;
+    margin-top:auto;
   }
 
   .main-img-mobile {
