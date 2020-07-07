@@ -512,9 +512,9 @@ body.light hr.separator {
   height: auto;
   /*z-index: 111;*/
   /*border-radius: 15px;*/
-  left: 30px;
-  top: 30px;
-  /*box-shadow: 0 0 7px rgba(0,0,0,.9);*/
+  /*left: 30px;*/
+  /*top: 30px;*/
+  /*!*box-shadow: 0 0 7px rgba(0,0,0,.9);*!*/
 }
 
 .home .container-home {
