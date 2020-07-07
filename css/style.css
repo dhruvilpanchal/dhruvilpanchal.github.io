@@ -504,9 +504,10 @@ body.light hr.separator {
 .home .bg {
   /*background-color:#16181b ;*/
   background-image: url("../img/laptop5.jpg");
+  width: 100%;
   background-size: cover;
   background-position: top;
-  height: calc(100vh - 60px);
+  height: auto;
   z-index: 111;
   border-radius: 15px;
   left: 30px;
