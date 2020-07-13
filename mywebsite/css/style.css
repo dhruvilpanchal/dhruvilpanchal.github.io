@@ -7,7 +7,7 @@
     background-position:center center;
     background-color: grey;
     width: 100%;
-    
+    scroll-behavior: smooth;
 }
 .navbar-light .navbar-brand{
     
